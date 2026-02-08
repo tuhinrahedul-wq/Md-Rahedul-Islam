@@ -63,8 +63,10 @@ This system can also support smart city development.
 🔹 Our Team:
 This project is developed by a dedicated team.
 
-Tuhin is the CEO, responsible for vision and management.
-Shimanto is the CTO, responsible for technology and AI systems.
+Tuhin is the CEO, 
+responsible for vision and management.
+Shimanto is the CTO, 
+responsible for technology and AI systems.
 Imran is the Operation Manager, handling daily operations.
 Sourov is the Lead Engineer, developing hardware and software.
 Eren is the Site Engineer, responsible for installation and maintenance.
